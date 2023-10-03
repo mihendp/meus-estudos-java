@@ -90,7 +90,7 @@ public class Exercicio1 {
 
         System.out.println("Apague o dicionário de estados: ");
         nordeste.clear();
-        System.out.println(nordeste);
+        System.out.println(nordeste );
         System.out.println("Verifique se o dicionário está vazio: " + nordeste.isEmpty());
 
 
